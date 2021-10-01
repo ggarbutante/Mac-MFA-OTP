@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Base32",
+        "repositoryURL": "https://github.com/std-swift/Base32.git",
+        "state": {
+          "branch": null,
+          "revision": "3bf2b4dc874c615645ad81f4bcc2ced37ac5c9ca",
+          "version": "3.0.0"
+        }
+      },
+      {
+        "package": "CryptoSwift",
+        "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "5669f222e46c8134fb1f399c745fa6882b43532e",
+          "version": "1.3.8"
+        }
+      },
+      {
+        "package": "Encoding",
+        "repositoryURL": "https://github.com/std-swift/Encoding.git",
+        "state": {
+          "branch": null,
+          "revision": "bd0dac5c17e8af9c6f85ec3186db07f91b263471",
+          "version": "2.0.3"
+        }
+      },
+      {
+        "package": "KeychainSwift",
+        "repositoryURL": "https://github.com/evgenyneu/keychain-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "96fb84f45a96630e7583903bd7e08cf095c7a7ef",
+          "version": "19.0.0"
+        }
+      },
+      {
+        "package": "swift-crypto",
+        "repositoryURL": "https://github.com/apple/swift-crypto.git",
+        "state": {
+          "branch": null,
+          "revision": "296d3308b4b2fa355cfe0de4ca411bf7a1cd8cf8",
+          "version": "1.1.4"
+        }
+      },
+      {
+        "package": "SwiftOTP",
+        "repositoryURL": "https://github.com/lachlanbell/SwiftOTP.git",
+        "state": {
+          "branch": null,
+          "revision": "315acdb759083fd8f3c37b02fc021321c8934f9c",
+          "version": "3.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
