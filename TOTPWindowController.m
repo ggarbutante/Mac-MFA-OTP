@@ -1,13 +1,13 @@
 //
 //  TOTPWindowController.m
-//  OptumLabs-MacOS-MFA
+//  MacOS-MFA
 //
 //  Created by garbutante on 2/28/21.
 //
 
 #import "TOTPWindowController.h"
 #import "OnlyIntegerValueFormatter.h"
-#import "OptumLabsMacOSMFA-Swift.h"
+#import "MacOSMFA-Swift.h"
 
 //MechanismRecord *   mechanism;
 static void *lastMechanismRef;
