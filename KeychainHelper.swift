@@ -1,6 +1,6 @@
 //
 //  KeychainHelper.swift
-//  OptumLabsMacOSMFA
+//  MacOSMFA
 //
 //  Created by garbutante on 3/6/21.
 //
