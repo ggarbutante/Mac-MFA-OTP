@@ -1,4 +1,12 @@
 //
+//  AuthorizationPlugin.h
+//  FV2AuthPlugin
+//
+//  Created by Burgin, Thomas (NIH/NIMH) [C] on 5/5/15.
+//  Copyright (c) 2015 NIH. All rights reserved.
+//
+
+//
 //  AuthorizationPlugin.m
 //  MacOfflineMFA
 //
