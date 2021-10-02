@@ -1,6 +1,6 @@
 //
 //  CryptoHelper.h
-//  OptumLabsMacOSMFA
+//  MacOSMFA
 //
 //  Created by garbutante on 3/7/21.
 //
