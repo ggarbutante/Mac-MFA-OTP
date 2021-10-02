@@ -1,6 +1,6 @@
 //
 //  AuthorizationPlugin.m
-//  OptumLabsOfflineMFA
+//  MacOfflineMFA
 //
 //  Created by garbutante on 2/25/21.
 //
