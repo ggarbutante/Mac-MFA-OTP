@@ -1,6 +1,6 @@
 //
 //  TOTPWindowController.h
-//  OptumLabs-MacOS-MFA
+//  MacOS-MFA
 //
 //  Created by garbutante on 2/28/21.
 //
