@@ -1,5 +1,5 @@
 # Mac-MFA-OTP
-Here is my personal project that I proposed as the solution for our company's requirement to implement MFA (Multi-Factor Authentication) on our Macbooks. I had experience in mobile development in the past, so I thought this was the time to get myself motivated and a chance to dust off my skills in Objective-C and Swift.
+Here is my personal project that I proposed to our IT team as the solution for our company's requirement to implement MFA (Multi-Factor Authentication) on our Macbooks. I had experience in mobile development in the past, so when we were asked to find a MFA solution for our endpoint devices, I thought it was the perfect time to get myself motivated and a chance to dust off my skills in Objective-C and Swift.
 
 ## Requirements
 - Xcode 12 or latest
