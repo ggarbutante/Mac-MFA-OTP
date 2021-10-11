@@ -6,3 +6,4 @@ Here is my project that I proposed as the solution for our company's requirement
 - working knowlege in Objective-C and Swift
 - understanding of [TOTP](https://datatracker.ietf.org/doc/html/rfc6238)
 -  understanding of Apple's [Authorization Plug-ins](https://developer.apple.com/documentation/security/authorization_plug-ins)
+- JAMF Pro and JAMF Connect
