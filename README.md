@@ -7,3 +7,7 @@ Here is my personal project that I proposed as the solution for our company's re
 - understanding of [TOTP](https://datatracker.ietf.org/doc/html/rfc6238)
 -  understanding of Apple's [Authorization Plug-ins](https://developer.apple.com/documentation/security/authorization_plug-ins)
 - JAMF Pro and JAMF Connect
+
+## Credits and References:
+- [MacAdmins Conference](https://www.youtube.com/watch?v=tcmql5byA_I)
+- 
