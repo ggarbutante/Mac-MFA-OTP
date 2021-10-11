@@ -10,4 +10,6 @@ Here is my personal project that I proposed as the solution for our company's re
 
 ## Credits and References:
 - [MacAdmins Conference](https://www.youtube.com/watch?v=tcmql5byA_I)
-- 
+- [Authorization Plugin Programming](https://github.com/tburgin/PSU_2015)
+
+## Documentation
